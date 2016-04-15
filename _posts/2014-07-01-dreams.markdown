@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Випарита Карани
-date: {}
-author: Start Bootstrap
+date: 2016-04-15T12:00:00.000Z
+author: Моя йога
 "header-img": "img/post-bg-02.jpg"
 published: true
 ---
