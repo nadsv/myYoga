@@ -1,42 +1,46 @@
 ---
-layout:     post
-title:      "The dreams of yesterday are the hopes of today and the reality of tomorrow."
-date:       2014-07-01 12:00:00
-author:     "Start Bootstrap"
-header-img: "img/post-bg-02.jpg"
+layout: post
+title: Випарита Карани
+date: {}
+author: Start Bootstrap
+"header-img": "img/post-bg-02.jpg"
+published: true
 ---
 
-<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+##Омоложение - с точки зрения йоги:
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+Чакра Сома находится в верхней части лба, она источает лунный нектар, который медленно стекает по телу в виде энергетического потока в район солнечного сплетения.
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+Нектар считается источником молодости и здоровья, он стекает к солнечному сплетению в район чакры Манипура, которая является огненной чакрой. Эта самая огненная чакра Манипура, сжигает нектар, что автоматически приводит к старению.
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+Чтобы помешать чакре Манипура сжигать нектар бессмертия, надо просто принять перевернутое положение и тогда нектар не попадает на солнечное сплетение. Нектар начинает течь в другом направлении, или накапливается в голове, что приводит омоложению и развитию необычных способностей, самые известные из которых - ясновидение и яснослышание.
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+Для того, чтобы добиться омоложения этим способом, йога рекомендует следующие асаны (положения):
+- Сарвангасана
+- Випарита Карани
+- Ширшасана
+- Адхо Мукха Врикшасана (стойка на руках)
+- Пинча Майюрасана (стойка на предплечьях)
 
-<h2 class="section-heading">The Final Frontier</h2>
+Наибольший эффект дает выполнение всех этих асан.
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+Вот что пишут про Випарита-карани в классических трактатах:
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+Практика Випарита-карани-мудры сохраняет молодость тела. Кожа не увядает и волосы не становятся седыми с течением времени. Морщины и седина в волосах исчезают за полгода. Причем постепенно темнеют волосы даже у тех, у кого они уже практически полностью поседели.
 
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+По поводу продолжительности нахождения в перевернутом положении для достижения желаемого эффекта (омоложения всего организма, избавления от морщин и седины) различные источники расходятся. В одних трактатах утверждается, что необходимо оставаться в такой позе минимум 30 минут, а в других говорится, что достаточно 8 минут в день.
 
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+Но в одном сходятся все источники: начинать следует с 1-2 минут, постепенно увеличивая продолжительность выполнения упражнения (можно добавлять по 30 секунд в день).
 
-<h2 class="section-heading">Reaching for the Stars</h2>
+##Омоложение - с научной точки зрения:
 
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
+Перевернутое положение тела снимает часть нагрузки с системы кровообращения, обусловленной необходимостью преодолевать силу тяжести при прохождении кровью нижней части тела. Кровь приливает к органам брюшной полости и верхней части тела, в особенности - к шее и голове. Кровеносные сосуды ног отдыхают, мозг получает дополнительное кровоснабжение, щитовидная железа обильно омывается свежей кровью.
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
-</a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+Кроме того, это упражнение устраняет запоры, несварение, анемию, повышает аппетит и общий жизненный тонус организма. Випарита-карани способствует нейтрализации и разрушению токсинов в организме.
 
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
+Ну и не лишним будет заметить улучшение состояния мышц верхней части тела и гибкости позвоночника, от состояния которого зависит нормальное функционирование практически всех органов тела.
 
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
+Практика асан несовместима с употреблением алкоголя. Желательно исключить всю вредную и тяжелую пищу: самые вредные продукты и мясо.
+![Випарита Карани]({{site.baseurl}}/_posts/vipatitaKatani.jpg)
 
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+
